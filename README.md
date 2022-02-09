@@ -1,0 +1,2 @@
+# Eagle_A3921_Library
+Allegro社のフルブリッジゲートドライバICであるA3921のEagleライブラリです。
